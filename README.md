@@ -12,5 +12,5 @@ Currently
 	* Author: Daniel Lawson (dan.lawson@bristol.ac.uk)
 
 
-Summary statistic data used for the anomaly detection in this paper are available from the [data.bris](doi.org/10.5523/bris.30vkt4urhspfq2d86dflcizqfg) data hosting service.
+Summary statistic data used for the anomaly detection in this paper are available from the [data.bris](http://doi.org/10.5523/bris.30vkt4urhspfq2d86dflcizqfg) data hosting service.
 
